@@ -1,4 +1,4 @@
-
+#a list is there find the combinations that can be made by arranging them in different order
 
 def combinations(l,combo_length):
     combs=[]
